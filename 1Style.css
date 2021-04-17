@@ -1,0 +1,80 @@
+.button{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu{
+    margin-top: 20px;
+    margin:50px;
+    background-color: crimson;
+    height: 30px;
+    width: 80px;
+}
+
+.head_text{
+    color: #fff;
+    width: 400px;
+    text-align: center;
+    margin: 25px;
+    background-color: rgb(30, 41, 50);
+}
+
+.item{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.flex_conteiner_2{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(30, 41, 50);
+}
+
+.map{
+background-color: rgb(30, 41, 50) ;
+}
+
+.main-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color:rgb(30, 41, 50);
+}
+
+.img-footer{
+    height: 200px;
+    width: 500px;
+    background-color:rgb(30, 41, 50);
+    margin: 25px;
+}
+
+.form-footer{
+    height: 200px;
+    width: 500px;
+    background-color:rgb(30, 41, 50);
+}
+
+.transparent{
+    position: relative;
+    padding: 60px 50px;
+    background-size: cover;
+}
+
+.mail{
+    background-color: rgb(30, 41, 50);
+    margin-left: 400px;
+}
+

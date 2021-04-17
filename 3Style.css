@@ -1,0 +1,17 @@
+.phone{
+    display: flex;
+    justify-content: space-around;
+}
+
+.phone_text{
+    color: white;
+}
+
+.e-mail{
+    display: flex;
+    justify-content: space-around; 
+}
+
+.e-mail_text{
+    color: white;
+}

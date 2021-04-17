@@ -1,0 +1,15 @@
+.lion{
+height: 350px;
+width: 550px;
+}
+
+.information{
+display: flex;
+flex-direction: column;
+margin: 20px;
+}
+
+.lion_style{
+display: flex;
+justify-content: space-around;
+}
